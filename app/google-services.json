@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723861200394",
+    "project_id": "ecommerceapp-cbef7",
+    "storage_bucket": "ecommerceapp-cbef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723861200394:android:1ffad8e802b34e91ccc9f3",
+        "android_client_info": {
+          "package_name": "com.rrmchathura.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723861200394-udvfjj6pi32bsrp7tc7vfk7b2chemfpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPjSHm7l_MBEmw3vx6Bsrl5nDP1nugeX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723861200394-udvfjj6pi32bsrp7tc7vfk7b2chemfpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
